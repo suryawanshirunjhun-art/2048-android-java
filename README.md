@@ -1,2 +1,2 @@
-# 2048-android-java
-Developed a fully functional 2048 Android game using Java and Android SDK, implementing custom swipe mechanics, tile merging logic, and real-time score tracking from scratch.
+# 2048 Game Logic (Java)
+Implemented core 2048 game logic in Java, including tile merging and score calculation (terminal-based version).
